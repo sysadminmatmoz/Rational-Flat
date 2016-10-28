@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.5 r10040"
+   version="1.0"
+   sodipodi:docname="shield.svg"
+   inkscape:output_extension="org.inkscape.output.svgz.inkscape"
+   inkscape:export-filename="/home/david/security-high.png"
+   inkscape:export-xdpi="11.25"
+   inkscape:export-ydpi="11.25">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4570312"
+     inkscape:cx="27.796243"
+     inkscape:cy="128"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="128px"
+     height="128px"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     inkscape:window-x="-4"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       id="GridFromPre046Settings"
+       type="xygrid"
+       originx="0px"
+       originy="0px"
+       spacingx="4px"
+       spacingy="4px"
+       color="#3f3fff"
+       empcolor="#3f3fff"
+       opacity="0.15"
+       empopacity="0.38"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,128)">
+    <path
+       style="fill:#3daee9;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="M 129 38 C 122.81217 38.000274 116.62724 38.909991 114.03125 40.75 C 95.732074 58.503257 57.381842 74.358609 44 77.96875 C 44 133.73176 82.548937 218 129 218 C 175.34747 218 214 133.73176 214 77.96875 C 200.61816 74.358609 162.26793 58.503257 143.96875 40.75 C 141.37286 38.908894 135.18783 37.999726 129 38 z M 129 47 C 131.66321 46.999882 134.26678 47.182789 136.28125 47.53125 C 137.47138 47.73712 138.44212 48.179 138.625 48.25 L 139.15625 48.4375 L 139.5625 48.8125 C 157.60093 65.401916 184.95603 77.639597 202.59375 83.625 L 204.78125 84.375 L 204.625 86.6875 C 202.84754 111.12644 194.10983 140.75067 181 164.53125 C 173.64189 177.87849 165.11408 188.87246 156.21875 196.625 C 147.32342 204.37754 138.00172 209 129 209 C 119.96857 209 110.6472 204.37862 101.75 196.625 C 92.852802 188.87138 84.319738 177.87675 76.96875 164.53125 C 63.87118 140.75299 55.148171 111.13068 53.375 86.6875 L 53.21875 84.375 L 55.40625 83.625 C 73.043971 77.639597 100.39907 65.401917 118.4375 48.8125 L 118.84375 48.4375 L 119.375 48.25 C 119.55729 48.179274 120.52865 47.737144 121.71875 47.53125 C 123.73406 47.18259 126.33726 47.000118 129 47 z M 129 53 C 126.6507 53.000104 124.21088 53.210602 122.71875 53.46875 C 122.42839 53.518983 122.20882 53.59855 121.96875 53.6875 C 103.54048 70.415367 77.604365 82.148998 59.59375 88.46875 C 61.642652 111.44659 69.989023 139.45354 82.21875 161.65625 C 89.292594 174.49861 97.480034 184.94121 105.6875 192.09375 C 113.89497 199.24629 122.06242 203 129 203 C 135.89928 203 144.04272 199.24664 152.25 192.09375 C 160.45728 184.94086 168.66956 174.49982 175.75 161.65625 C 187.99155 139.4507 196.35288 111.44133 198.40625 88.46875 C 180.39564 82.148998 154.45952 70.415366 136.03125 53.6875 C 135.79121 53.598585 135.57124 53.51891 135.28125 53.46875 C 133.7894 53.210691 131.34883 52.999896 129 53 z "
+       transform="translate(0,-128)"
+       id="path2160" />
+  </g>
+</svg>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="googleplaymovies.svg"
+   inkscape:export-filename="/home/uri/workspace/NitruxforAndroid/res/drawable-xhdpi/google_search.png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8.0625001"
+     inkscape:cx="15.680007"
+     inkscape:cy="-6.6409482"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="-4"
+     inkscape:window-y="39"
+     inkscape:window-maximized="1"
+     showguides="true">
+    <sodipodi:guide
+       position="4,44.000017"
+       orientation="40,0"
+       id="guide4081" />
+    <sodipodi:guide
+       position="4,4.0000174"
+       orientation="0,40"
+       id="guide4083" />
+    <sodipodi:guide
+       position="44,4.0000174"
+       orientation="-40,0"
+       id="guide4085" />
+    <sodipodi:guide
+       position="44,44.000017"
+       orientation="0,-40"
+       id="guide4087" />
+    <sodipodi:guide
+       position="9,39.000017"
+       orientation="30,0"
+       id="guide4091" />
+    <sodipodi:guide
+       position="9,9.0000174"
+       orientation="0,30"
+       id="guide4093" />
+    <sodipodi:guide
+       position="39,9.0000174"
+       orientation="-30,0"
+       id="guide4095" />
+    <sodipodi:guide
+       position="39,39.000017"
+       orientation="0,-30"
+       id="guide4097" />
+    <sodipodi:guide
+       position="15,33.000017"
+       orientation="18,0"
+       id="guide4101" />
+    <sodipodi:guide
+       position="15,15.000017"
+       orientation="0,18"
+       id="guide4103" />
+    <sodipodi:guide
+       position="33,15.000017"
+       orientation="-18,0"
+       id="guide4105" />
+    <sodipodi:guide
+       position="33,33.000017"
+       orientation="0,-18"
+       id="guide4107" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1004.3622)">
+    <path
+       style="fill:#bc4242;fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       id="path3434"
+       d="m 44,1028.3622 c 0,11.0456 -8.95436,20 -20,20 -11.04564,0 -20,-8.9544 -20,-20 0,-11.0456 8.95436,-20 20,-20 11.04564,0 20,8.9544 20,20" />
+    <path
+       style="opacity:0.25"
+       inkscape:connector-curvature="0"
+       d="m 14.8419,1017.5358 c -1.78037,0 -3.21228,1.4338 -3.21228,3.2141 v 15.7627 c 0,0.8908 0.35841,1.6948 0.93947,2.276 l 9.47787,9.4779 c 0.64227,0.062 1.29341,0.095 1.95213,0.095 11.04563,0 20,-8.9544 20,-20 0,-0.6589 -0.0328,-1.3102 -0.0951,-1.9527 l -7.93386,-7.9339 c -0.58096,-0.5809 -1.38413,-0.9394 -2.27472,-0.9394 H 14.842 l -7.3e-4,-10e-4"
+       id="path3492" />
+    <path
+       style="fill:#ffffff"
+       inkscape:connector-curvature="0"
+       d="m 14.84281,1017.5358 c -1.78036,0 -3.21228,1.4339 -3.21228,3.2141 v 15.7627 c 0,1.7803 1.43155,3.2141 3.21228,3.2141 h 18.85341 c 1.78037,0 3.21411,-1.4338 3.21411,-3.2141 v -15.7617 c 0,-1.7804 -1.43383,-3.2142 -3.21411,-3.2142 H 14.84281 m -0.31602,2.172 h 3.33023 v 2.6623 h -3.32941 v -2.6623 m 16.15916,0 h 3.33022 v 2.6623 h -3.3294 v -2.6623 m -16.15824,3.7943 h 3.33023 v 2.6651 h -3.32941 v -2.6651 m 16.15915,0 h 3.33023 v 2.6651 h -3.3294 v -2.6651 m -16.15824,3.7966 h 3.33022 v 2.6623 h -3.3294 v -2.6623 m 16.15915,0 h 3.33023 v 2.6623 H 30.6927 v -2.6623 m -16.15823,3.7943 h 3.33022 v 2.665 h -3.3294 v -2.665 m 16.15915,0 h 3.33023 v 2.665 h -3.32941 v -2.665 m -16.15824,3.7966 h 3.33023 v 2.6622 h -3.3294 v -2.6622 m 16.15915,0 h 3.33023 v 2.6622 h -3.32941 v -2.6622"
+       id="path3494" />
+  </g>
+</svg>
