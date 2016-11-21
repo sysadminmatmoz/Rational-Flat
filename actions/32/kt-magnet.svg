@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="256"
+   height="256"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="kt-magnet.svg"
+   inkscape:output_extension="org.inkscape.output.svgz.inkscape"
+   inkscape:export-filename="/home/oleg/.kde/share/icons/K-High-Delight/actions/128/kt-magnet.png"
+   inkscape:export-xdpi="45"
+   inkscape:export-ydpi="45">
+  <metadata
+     id="metadata70">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="1031"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="2.1210938"
+     inkscape:cx="40.309395"
+     inkscape:cy="128"
+     inkscape:window-x="-4"
+     inkscape:window-y="32"
+     inkscape:current-layer="svg2"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs5" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#da4453;fill-opacity:1;stroke:none"
+     id="path3221"
+     d="m 124.91467,38.000139 c -5.5278,0.0096 -11.2634,0.501369 -17.16941,1.540691 C 94.792079,43.273508 84.353539,49.609507 75.236405,59.251044 57.732709,78.83848 53.577001,94.98926 57.205833,129.43217 c 2.445008,23.20636 5.600151,49.69256 6.458713,54.66796 l 11.356568,0 10.495406,0 7.212229,0 0,-0.1594 c 0.0018,-1.16775 -1.245358,-15.89971 -2.74495,-32.77951 -2.902805,-32.67496 -3.039179,-39.80499 -1.130275,-47.81454 2.523221,-10.58683 9.899277,-21.10154 18.030576,-25.60735 10.483,-5.80899 20.03725,-6.72059 30.57123,-3.08138 4.44824,1.53673 10.62991,5.53801 14.31681,9.29727 5.29614,5.4 10.52678,15.01622 12.48684,23.00411 2.91058,11.86148 3.08902,18.05074 1.23793,40.74862 -0.45629,5.59476 -1.14696,14.00842 -1.50703,18.7008 -0.36005,4.69236 -0.90709,10.80797 -1.23793,13.65369 -0.21598,1.85799 -0.28689,3.09522 -0.26912,4.03769 l 9.36513,0 8.77309,0 10.76451,0 2.79877,0 c 0.13904,-1.01651 0.28343,-2.07755 0.37676,-3.18764 1.30144,-15.47544 2.73537,-30.38589 3.49848,-36.28592 0.46442,-3.59056 1.06357,-10.28773 1.34557,-14.87564 0.85967,-13.98686 0.81757,-19.62256 -0.32294,-26.56363 -6.87678,-40.71902 -35.47295,-65.254568 -74.16753,-65.187161 z" />
+  <path
+     style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+     d="M 63.78125 184.125 C 65.578789 200.17923 67.314701 214.5501 67.90625 218 L 78.6875 218 L 88.625 218 L 95.46875 218 L 95.46875 217.84375 C 95.47045 216.73072 94.264029 202.68209 92.84375 186.59375 C 92.75492 185.58717 92.708426 185.08157 92.625 184.125 L 63.78125 184.125 z M 162.28125 184.125 C 162.18966 185.08157 162.16 185.58717 162.0625 186.59375 C 160.50353 202.68209 159.15425 216.73072 159.15625 217.84375 L 159.15625 218 L 166.65625 218 L 177.59375 218 L 189.40625 218 C 190.05558 214.5501 191.9957 200.17921 193.96875 184.125 L 162.28125 184.125 z "
+     id="path3264" />
+</svg>

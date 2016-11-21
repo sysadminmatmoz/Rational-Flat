@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   id="svg5080"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="package-remove.svg">
+  <defs
+     id="defs5082" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.1210938"
+     inkscape:cx="50.917129"
+     inkscape:cy="128"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     inkscape:window-x="-4"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5085">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-796.36218)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#eff0f1;fill-opacity:1;stroke:none"
+       id="path3836"
+       d="m 127.99999,834.36218 a 90,90.00001 0 0 1 0,180.00002 90,90.00001 0 1 1 0,-180.00002 z" />
+    <path
+       style="fill:#da4453;fill-opacity:1;stroke:none"
+       d="m 78.000007,887.73885 36.623343,36.62333 -36.623353,36.6233 13.37668,13.3767 36.623343,-36.6233 36.62333,36.6233 13.37666,-13.3767 -36.62333,-36.6233 36.62333,-36.62333 -13.37666,-13.37667 -36.62333,36.6233 -36.623343,-36.6233 -13.37667,13.37667 z"
+       id="rect5037"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
